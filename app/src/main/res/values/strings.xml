@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Game_1</string>
+    <string-array name="round1">
+        <item>Cinnamon</item>
+        <item>Apple</item>
+        <item>Milk</item>
+        <item>Detergent</item>
+        <item>Cheese</item>
+        <item>Shampoo</item>
+        <item>Butter</item>
+        <item>Tangerine</item>
+        <item>Coffee</item>
+        <item>Marmalade</item>
+        <item>Cabbage</item>
+        <item>Meat</item>
+        <item>Sugar</item>
+    </string-array>
+
+    <string-array name="round2">
+        <item>Water</item>
+        <item>Jam</item>
+        <item>Chicken</item>
+        <item>Coffee</item>
+        <item>Butter</item>
+        <item>Orange</item>
+        <item>Rice</item>
+        <item>Milk</item>
+        <item>Pasta</item>
+        <item>Apple</item>
+        <item>Mushroom</item>
+        <item>Onion</item>
+        <item>Bread</item>
+        <item>Marmalade</item>
+        <item>Margarine</item>
+        <item>Courgette</item>
+        <item>Cinnamon</item>
+        <item>Meat</item>
+        <item>Sugar</item>
+        <item>Potato</item>
+        <item>Lettuce</item>
+        <item>Deodorant</item>
+        <item>Shampoo</item>
+        <item>Tangerine</item>
+        <item>Cheese</item>
+        <item>Yogurt</item>
+        <item>Caramel</item>
+        <item>Detergent</item>
+        <item>Meat</item>
+        <item>Espresso</item>
+    </string-array>
+
+</resources>
